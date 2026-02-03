@@ -125,11 +125,11 @@ describe('WebFinger', () => {
         {
           href: host + '/storage/zebcoe',
           rel: 'remotestorage',
-          type: 'draft-dejong-remotestorage-01',
+          type: 'draft-dejong-remotestorage-05',
           properties: {
             'auth-method': 'http://tools.ietf.org/html/rfc6749#section-4.2',
             'auth-endpoint': host + '/oauth/zebcoe',
-            'http://remotestorage.io/spec/version': 'draft-dejong-remotestorage-01',
+            'http://remotestorage.io/spec/version': 'draft-dejong-remotestorage-05',
             'http://tools.ietf.org/html/rfc6749#section-4.2': host + '/oauth/zebcoe',
             'http://tools.ietf.org/html/rfc6750#section-2.3': true
           }
