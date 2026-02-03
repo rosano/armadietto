@@ -43,7 +43,7 @@ See [the modular-server-specific documentation](./notes/modular-server.md) for u
 
 * Stores user documents in server file system
 * More thoroughly tested
-* Implements older spec: draft-dejong-remotestorage-02
+* Implements older spec: draft-dejong-remotestorage-03
 
 See [the monolithic-server-specific documentation](./notes/monolithic-server.md) for usage.
 
